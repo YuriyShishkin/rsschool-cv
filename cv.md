@@ -2,6 +2,9 @@
 
 **Novice Front-end developer**
 
+
+ ## Contacts
+
  :email: <ya.shishkan@gmail.com> :octocat: [GitHub](https://github.com/YuriyShishkin/) :airplane: [Telegramm](https://t.me/ShishkinYuriy)
 
  ## Summary
@@ -16,3 +19,10 @@
  - [x] SCSS
  - [x] JavaScript - the basics
  - [x] Git
+
+## Projects
+ My educational projects:
+
+[Productly](https://github.com/YuriyShishkin/productly)
+
+[Movee](https://github.com/YuriyShishkin/Movee)
